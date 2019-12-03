@@ -1,0 +1,5 @@
+﻿  Game.cpp
+d:\шаг\ооп\tetris\tetris\game.cpp(451): warning C4101: 'iArr': unreferenced local variable
+d:\шаг\ооп\tetris\tetris\game.cpp(451): warning C4101: 'jArr': unreferenced local variable
+d:\шаг\ооп\tetris\tetris\game.cpp(645): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Tetris.vcxproj -> D:\Шаг\ООП\TETRIS\x64\Debug\Tetris.exe
